@@ -3,8 +3,8 @@ A dark theme for Hesk v3.1.2+  (Help Desk Support Software)
 
 Simply copy and paste the code in two locations
 
-1. theme/tracy_hesk_dark_theme/customer/css/app.min.css
-2. admin/css/app.min.css
+1. example.com/theme/tracy_hesk_dark_theme/customer/css/app.min.css
+2. example.com/css/app.min.css
 
 
 ### Dashboard
