@@ -1,5 +1,5 @@
 # hesk_tracy_theme
-A dark theme for Hesk v3.1.2+ - Help Desk Support Software
+A dark theme for Hesk v3.1.2+  (Help Desk Support Software)
 
 Simply copy and paste the code in two locations
 
