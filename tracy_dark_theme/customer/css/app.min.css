@@ -13,11 +13,6 @@ body { display: -ms-flexbox; display: flex; -ms-flex-direction: column; flex-dir
 
 
 
-
-
-
-
-
 .main__content {
     
     background-color:#262626 !important;
